@@ -15,7 +15,7 @@ You will also need to have software installed to run and execute an [iPython Not
 
 ### Code
 
-Template code is provided in the notebook `titanic.ipynb` notebook file. Additional supporting code can be found in `titanic_visualizations.py`. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project.
+Template code is provided in the notebook `titanic.ipynb` notebook file. . While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project.
 
 #### This Notebook will show basic examples of:
 #### Data Handling
